@@ -1,0 +1,1 @@
+# haton14-authlete-open-api-gen-example
